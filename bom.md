@@ -20,3 +20,11 @@
 
 ![页面截图](asset/filter1.png)
 数量：1
+
+
+# 铝壳
+购买链接
+[铝壳铝型材壳体铝盒铝合金外壳定制电子diy电路板盒电源盒 55*159](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8d5E2lmE&id=544920872411&_u=bgtea8e632)
+
+![页面截图](asset/box.png)
+数量：1
